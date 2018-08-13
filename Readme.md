@@ -84,5 +84,5 @@
 
     }
  ```
- ![游戏界面](C:\Users\tyh\Pictures\Camera Roll\1.png)
+ ![游戏界面](https://github.com/ttyyhh/tang/blob/master/1.png)
  
